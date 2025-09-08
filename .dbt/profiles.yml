@@ -1,8 +1,0 @@
-my-profile:
-  target: dev
-  outputs:
-    dev:
-      type: bigquery
-      method: oauth
-      project: dbt-training-470309
-      location: europe-west6 # Optional, one of US or EU, or a regional location
